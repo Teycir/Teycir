@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me: teycir@gmail.com
+- 📫 How to reach me: teycir at gmail.com
 
 <!---
 Teycir/Teycir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
