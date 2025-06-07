@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Teycir
-- 👀 I’m interested in machine learning
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me: teycir at gmail dot com
+- 👀 I’m interested in web 3
+- 📫 How to reach me: teycir at pxdmail dot net
 
 <!---
 Teycir/Teycir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
