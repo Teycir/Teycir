@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teycir
-- 👀 I’m interested in web 3
+- 👀 I’m interested in web 3 and AI
 - 📫 How to reach me: teycir at pxdmail dot net
 
 <!---
