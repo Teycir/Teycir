@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teycir
-- 👀 I’m interested in web 3 and AI
+- 👀 I do private audits for WEB 3 smart contracts. I also participate in audit competitions.
 - 📫 How to reach me: teycir at pxdmail dot net
 
 <!---
