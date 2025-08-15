@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teycir
-- 👀 I do private audits for WEB 3 smart contracts. I also participate in audit competitions.
+- 👀 I can develop for WEB 3 projects. I also participate in audit competitions. I can offer private audits.
 - 📫 How to reach me: teycir at pxdmail dot net
 
 <!---
