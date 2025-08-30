@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teycir
-- 👀 I compete in smart contract audit competitions. I can offer private audits services.
+- 👀 I love programming.
 - 📫 How to reach me: teycir at pxdmail dot net
 
 <!---
