@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teycir
-- 👀 I love programming.
+- 👀 I am a technophile.
 - 📫 How to reach me: teycir at pxdmail dot net
 
 <!---
