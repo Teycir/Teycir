@@ -4,7 +4,7 @@
 
 # Teycir Ben Soltane
 
-**Senior Software Engineer · Security Researcher **
+** Senior Software Engineer · Security Tools Builder **
 
 *15+ years enterprise experience · Master's in CS & Data Science · Tech Lead @ CAC40 clients*
 
