@@ -125,6 +125,68 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 | 🎓 **M.Sc. Computer Science** *(Valedictorian)* | Université Marne-La-Vallée — *July 2008* |
 | 📜 **Microsoft MCPD** .NET 4 Desktop & Web | *2009–2014* |
 
+## 📜 Certifications
+### 🟣 Cyfrin Updraft
+| Certificate | Issued | Credential ID |
+|---|---|---|
+| ⬛ Noir Programming And ZK Circuits | Feb 2026 | `6ED68LHJDH67` |
+| 🔮 Fundamentals of Zero-Knowledge Proofs (ZKPs) | Feb 2026 | `J7F6NHCS92U2` |
+| 🔐 Smart Contract Security | Aug 2025 | `EJI899QOU169` |
+---
+### 🟠 Blockchain & Smart Contracts
+| Certificate | Platform | Issued | Skills |
+|---|---|---|---|
+| Ethereum Blockchain Developer Bootcamp With Solidity (2025) | Udemy | May 2025 | Solidity · Blockchain |
+| Advanced Solidity: Understanding and Optimizing Gas Costs | Udemy | May 2025 | Solidity · EVM · Gas |
+| Advanced Solidity: Yul and Assembly | Udemy | May 2025 | Solidity · Yul · Assembly |
+| Blockchain A-Z: Build a Blockchain, a Crypto + ChatGPT Prize | Udemy | Apr 2025 | Solidity · Blockchain |
+| Create a Metaverse using Three.js, Solidity and NFT Tokens | Udemy | May 2025 | Solidity · Web3 · Three.js |
+| DeFi — Decentralized Finance: Future of Finance Masterclass | Udemy | Mar 2025 | DeFi |
+| Blockchain for Business: The New Industrial Revolution | Udemy | Mar 2025 | Blockchain |
+---
+### 🔴 Security, Hacking & Reverse Engineering
+| Certificate | Platform | Issued | Skills |
+|---|---|---|---|
+| Ethical Hacking: Blockchain & Smart Contract Security 2025 | Udemy | Apr 2025 | Blockchain Security |
+| The Complete Cyber Security Course: Hackers Exposed! | Udemy | Jan 2025 | Pentesting · CyberSec |
+| Breaking APIs: An Offensive API Pentesting Course | Udemy | Feb 2025 | API Pentesting |
+| Learn Bug Bounty Hunting & Web Security Testing From Scratch | Udemy | Feb 2025 | Bug Bounty · Web Security |
+| The Complete Nmap Ethical Hacking Course: Network Security | Udemy | Jan 2025 | Nmap · Network Security |
+| Cyber Security Social Engineering — Hacking Human Firewalls | Udemy | Jan 2025 | Social Engineering |
+| Assembly Language Programming for Reverse Engineering | Udemy | Mar 2025 | x86 Assembly · RE |
+---
+### 🔵 Systems & Low-Level
+| Certificate | Platform | Issued | Skills |
+|---|---|---|---|
+| Rust: The Complete Developer's Guide | Udemy | May 2025 | Rust |
+---
+### 🟡 AI & Machine Learning
+| Certificate | Platform | Issued | Skills |
+|---|---|---|---|
+| LLM Mastery: ChatGPT, Gemini, Claude, Llama3, OpenAI & APIs | Udemy | Dec 2024 | LLMs · AI APIs |
+| Hugging Face — Transformers.js: Free AI Models for JavaScript | Udemy | Dec 2024 | AI · JavaScript |
+| NextLevel Images with Generative AI and Stable Diffusion GUI | Udemy | Dec 2024 | Generative AI |
+---
+### 🟢 Web, Frontend & Performance
+| Certificate | Platform | Issued | Skills |
+|---|---|---|---|
+| The Ultimate Modern Next.js Complete Course 2024 | Udemy | Nov 2024 | Next.js · MongoDB |
+| Interactive Web Animation — JavaScript SVG CSS & Canvas | Udemy | Oct 2024 | Frontend · Animation |
+| Web Performance In Practice: Master Core Web Vitals & More | Udemy | Oct 2024 | Web Performance |
+| Advanced SEO Strategies 2024 — Level Up Your SEO Knowledge | Udemy | Nov 2024 | SEO |
+| DESIGN RULES: Principles + Practices for Great UI Design | Udemy | Sep 2024 | UX/UI Design |
+---
+### ⚙️ DevOps & Engineering Practices
+| Certificate | Platform | Issued | Skills |
+|---|---|---|---|
+| Hands on With Docker & Docker Compose From a Docker Captain | Udemy | Nov 2024 | Docker |
+| Upgrade Your Clean Code Skills to Top Industry Standards | Udemy | Sep 2024 | Code Quality |
+---
+### 🏅 Enterprise & Legacy
+| Certificate | Platform | Issued | Credential ID |
+|---|---|---|---|
+| Microsoft Certified Professional Developer (MCPD) | Microsoft | Jan 2013 | `6865160` |
+---
 ---
 
 ## ⚙️ Full Technical Stack
