@@ -21,7 +21,7 @@
 
 Enterprise software engineer turned open-source security researcher. I spent 15+ years architecting and leading delivery of complex systems for CAC40-listed companies — Essilor, Carmignac Gestion, CACIB, AXA, Eurosport, Conduent — before shifting full focus to open-source tooling.
 
-Today I build **static analysis and fuzzing infrastructure for ZK circuits and EVM smart contracts**, exploit proof-of-concepts, web/API pentesting tooling, and privacy-first cryptographic applications. My work encodes hard-won audit expertise into executable, pattern-driven detection engines.
+Today I build **cyber security tools**, exploit proof-of-concepts, web/API pentesting tooling, and privacy-first cryptographic applications. My work encodes hard-won audit expertise into executable, pattern-driven detection engines.
 
 > Available immediately for **permanent positions**, **freelance/consulting**, and **co-founder opportunities**.
 
