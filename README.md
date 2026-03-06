@@ -4,7 +4,7 @@
 
 # Teycir Ben Soltane
 
-**Senior Software Engineer · Security Researcher · ZK Circuit Auditor**
+**Senior Software Engineer · Security Researcher **
 
 *15+ years enterprise experience · Master's in CS & Data Science · Tech Lead @ CAC40 clients*
 
