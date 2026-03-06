@@ -1,10 +1,15 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/96631637?v=4" width="120" style="border-radius: 50%" />
+
 # Teycir Ben Soltane
 
-**Security Researcher · ZK Circuit Auditor · Tool Builder**
+**Senior Software Engineer · Security Researcher · ZK Circuit Auditor**
+
+*15+ years enterprise experience · Master's in CS & Data Science · Tech Lead @ CAC40 clients*
 
 [![Email](https://img.shields.io/badge/Email-teycir%40pxdmail.net-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:teycir@pxdmail.net)
+[![Phone](https://img.shields.io/badge/Phone-%2B216%2023%20679%20267-green?style=flat-square&logo=whatsapp&logoColor=white)](tel:+21623679267)
 [![Website](https://img.shields.io/badge/Website-teycirbensoltane.tn-0A66C2?style=flat-square&logo=firefox&logoColor=white)](https://teycirbensoltane.tn)
 [![GitHub](https://img.shields.io/badge/GitHub-@Teycir-181717?style=flat-square&logo=github)](https://github.com/Teycir)
 
@@ -14,9 +19,11 @@
 
 ## About
 
-I build static analysis tooling and exploit proof-of-concepts for **ZK circuits** and **EVM smart contracts**, with a focus on pattern-based vulnerability detection across the full ZK stack — from Circom/Noir constraints to Solidity logic.
+Enterprise software engineer turned open-source security researcher. I spent 15+ years architecting and leading delivery of complex systems for CAC40-listed companies — Essilor, Carmignac Gestion, CACIB, AXA, Eurosport, Conduent — before shifting full focus to open-source tooling.
 
-When I'm not researching ZK security, I work on web/API penetration tooling, privacy-first cryptographic applications, and the occasional tool that makes everyday offense/defense work faster.
+Today I build **static analysis and fuzzing infrastructure for ZK circuits and EVM smart contracts**, exploit proof-of-concepts, web/API pentesting tooling, and privacy-first cryptographic applications. My work encodes hard-won audit expertise into executable, pattern-driven detection engines.
+
+> Available immediately for **permanent positions**, **freelance/consulting**, and **co-founder opportunities**.
 
 ---
 
@@ -26,13 +33,13 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 
 | Project | Description | Stack |
 |---|---|---|
-| [ZkPatternFuzz](https://github.com/Teycir/ZkPatternFuzz) | Multi-backend ZK circuit fuzzer. Audit expertise encoded as executable YAML patterns — creates a growing, executable knowledge base of ZK vulnerabilities. | Rust |
+| [ZkPatternFuzz](https://github.com/Teycir/ZkPatternFuzz) | Multi-backend ZK circuit fuzzer. Audit expertise encoded as executable YAML patterns — a growing, executable knowledge base of ZK vulnerabilities. ~14 crates. | Rust |
 | [ZkPatternMatcher](https://github.com/Teycir/ZkPatternMatcher) | Structural pattern matching for ZK constraint systems. Scan ZK code against YAML patterns to surface security issues. | Rust |
 | [smartcontractpatternfinder](https://github.com/Teycir/smartcontractpatternfinder) | YAML-pattern static analysis for Solidity/EVM. High-performance scanner with SARIF output and CI/CD integration. | Rust · Solidity |
 
 ---
 
-## 💣 Exploit PoCs
+## 💣 Exploit PoCs & Audit Reports
 
 | Project | Description | Stack |
 |---|---|---|
@@ -47,13 +54,13 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 | Project | Description | Stack |
 |---|---|---|
 | [BurpAPISecuritySuite](https://github.com/Teycir/BurpAPISecuritySuite) | Burp Suite extension — 15 attack types, 108+ payloads, BOLA/IDOR detection, AI-assisted analysis. Supports REST · GraphQL · SOAP. | Python |
-| [Excalibur](https://github.com/Teycir/Excalibur) | Dual-component WAF/CAPTCHA/anti-bot bypass framework. Chrome extension records traffic; Burp extension replays it with captured cookies. | Python |
+| [Excalibur](https://github.com/Teycir/Excalibur) | Dual-component WAF/CAPTCHA/anti-bot bypass framework. Chrome extension records traffic; Burp extension replays with captured cookies. | Python |
 | [Mcpwn](https://github.com/Teycir/Mcpwn) | Security testing framework targeting MCP (Model Context Protocol) attack surfaces. | Python |
 | [BurpCopyIssues](https://github.com/Teycir/BurpCopyIssues) | Burp Suite extension for streamlined issue export and reporting. | Python |
 | [BurpWpsScan](https://github.com/Teycir/BurpWpsScan) | Burp Suite extension for WordPress security scanning. | Python |
 | [burp-mcp-server](https://github.com/Teycir/burp-mcp-server) | MCP server interface for Burp Suite tooling. | JavaScript |
-| [IotScanner](https://github.com/Teycir/IotScanner) | IoT device discovery and scanning. | Python |
-| [honeypotscan](https://github.com/Teycir/honeypotscan) | Free honeypot token scanner for Ethereum, Polygon & Arbitrum. 13 detection patterns, no API keys. | TypeScript |
+| [IotScanner](https://github.com/Teycir/IotScanner) | IoT device discovery and attack surface scanning. | Python |
+| [honeypotscan](https://github.com/Teycir/honeypotscan) | Free honeypot token scanner for Ethereum, Polygon & Arbitrum. 13 detection patterns, no API keys required. | TypeScript |
 
 ---
 
@@ -90,17 +97,90 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 
 ---
 
-## Stack
+## 🏢 Enterprise Background
 
+> 15+ years leading delivery for major corporations in France — full stack from DB to architecture.
+
+| Period | Role | Company | Sector |
+|---|---|---|---|
+| 2019–2023 | **Tech Lead** | Essilor *(CAC40)* | Optics / MedTech |
+| 2018–2019 | **Tech Lead** | Conduent *(ex-Xerox)* | Public Transport / Ticketing |
+| 2016–2017 | **C# Engineer** | Docapost *(ex-Monéo Applicam)* | Energy / Retail |
+| 2016 | **C# Engineer** | Deltametrics | Finance / FinTech |
+| 2014–2016 | **C# Engineer** | Carmignac Gestion | Asset Management |
+| 2011–2013 | **C# Engineer** | Kernel Networks | Cyber Security |
+| 2010–2011 | **C# Engineer** | Eurosport | Media |
+| 2009–2010 | **C# Engineer** | CACIB *(ex-Calyon)* | Investment Banking |
+| 2008 | **C# Engineer** | AXA Risk Management | Insurance |
+
+**Core enterprise stack:** C# · ASP.NET MVC · WCF · WinForms · Entity Framework · T-SQL · Oracle · SQL Server · TFS · BizTalk · Roslyn · DevExpress · SSRS
+
+---
+
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🎓 **M.Sc. Data Science** | OpenClassrooms & CentraleSupélec — *April 2022* |
+| 🎓 **M.Sc. Computer Science** *(Valedictorian)* | Université Marne-La-Vallée — *July 2008* |
+| 📜 **Microsoft MCPD** .NET 4 Desktop & Web | *2009–2014* |
+
+---
+
+## ⚙️ Full Technical Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks & Platforms**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Circom](https://img.shields.io/badge/Circom-ZK-blueviolet?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+**Data Science**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🌍 Languages
+
+| | |
+|---|---|
+| 🇹🇳 Arabic | Native |
+| 🇫🇷 French | Fluent |
+| 🇬🇧 English | Fluent |
+| 🇮🇹 Italian | Conversational |
 
 ---
 
 <div align="center">
-<sub>Focused on the intersection of cryptographic systems and adversarial security research.</sub>
+
+**Open to:** Permanent positions · Freelance & consulting · Co-founder opportunities
+
+*Focused on the intersection of cryptographic systems and adversarial security research.*
+
+[![Email](https://img.shields.io/badge/Get_in_touch-teycir%40pxdmail.net-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:teycir@pxdmail.net)
+
 </div>
