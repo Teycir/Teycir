@@ -9,7 +9,6 @@
 *15+ years enterprise experience · Master's in CS & Data Science · Tech Lead @ CAC40 clients*
 
 [![Email](https://img.shields.io/badge/Email-teycir%40pxdmail.net-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:teycir@pxdmail.net)
-[![Phone](https://img.shields.io/badge/Phone-%2B216%2023%20679%20267-green?style=flat-square&logo=whatsapp&logoColor=white)](tel:+21623679267)
 [![Website](https://img.shields.io/badge/Website-teycirbensoltane.tn-0A66C2?style=flat-square&logo=firefox&logoColor=white)](https://teycirbensoltane.tn)
 [![GitHub](https://img.shields.io/badge/GitHub-@Teycir-181717?style=flat-square&logo=github)](https://github.com/Teycir)
 
