@@ -34,7 +34,7 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 |---|---|---|
 | [ZkPatternMatcher](https://github.com/Teycir/ZkPatternMatcher) | Structural pattern matching for ZK constraint systems. Scan ZK code against YAML patterns to surface security issues. | Rust |
 | [smartcontractpatternfinder](https://github.com/Teycir/smartcontractpatternfinder) | YAML-pattern static analysis for Solidity/EVM. High-performance scanner with SARIF output and CI/CD integration. | Rust · Solidity |
-[ZkPatternFuzz](https://github.com/Teycir/ZkPatternFuzz) | ZkPatternFuzz is a security testing framework that automates accumulated audit expertise. Each vulnerability discovered during manual audits is encoded as an executable YAML pattern, creating a growing knowledge base that automatically detects known vulnerability classes in future audits. | Rust |
+[ZkPatternFuzz](https://github.com/Teycir/ZkPatternFuzz) | (Private repository) ZkPatternFuzz is a security testing framework that automates accumulated audit expertise. Each vulnerability discovered during manual audits is encoded as an executable YAML pattern, creating a growing knowledge base that automatically detects known vulnerability classes in future audits. | Rust |
 ---
 
 ## 💣 Exploit PoCs & Audit Reports
