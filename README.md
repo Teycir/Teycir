@@ -71,7 +71,7 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 | Project | Description | Stack |
 |---|---|---|
 | [BurpAPISecuritySuite](https://github.com/Teycir/BurpAPISecuritySuite) | Burp Suite extension — 15 attack types, 108+ payloads, BOLA/IDOR detection, AI-assisted analysis. Supports REST · GraphQL · SOAP. | Python |
-| [Excalibur](https://github.com/Teycir/Excalibur) | Dual-component WAF/CAPTCHA/anti-bot bypass framework. Chrome extension records traffic; Burp extension replays with captured cookies. | Python |
+| [Excalibur](https://github.com/Teycir/Excalibur) Private repo | Dual-component WAF/CAPTCHA/anti-bot bypass framework. Chrome extension records traffic; Burp extension replays with captured cookies. | Python |
 | [Mcpwn](https://github.com/Teycir/Mcpwn) | Security testing framework targeting MCP (Model Context Protocol) attack surfaces. | Python |
 | [BurpCopyIssues](https://github.com/Teycir/BurpCopyIssues) | Burp Suite extension for streamlined issue export and reporting. | Python |
 | [BurpWpsScan](https://github.com/Teycir/BurpWpsScan) | Burp Suite extension for WordPress security scanning. | Python |
