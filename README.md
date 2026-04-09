@@ -53,7 +53,7 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 |---|---|---|
 | [ZkPatternMatcher](https://github.com/Teycir/ZkPatternMatcher) | Structural pattern matching for ZK constraint systems. Scan ZK code against YAML patterns to surface security issues. | Rust |
 | [smartcontractpatternfinder](https://github.com/Teycir/smartcontractpatternfinder) | YAML-pattern static analysis for Solidity/EVM. High-performance scanner with SARIF output and CI/CD integration. | Rust · Solidity |
-[ZkPatternFuzz](https://github.com/Teycir/ZkPatternFuzz) |  ZkPatternFuzz is a security testing framework that automates accumulated audit expertise. Each vulnerability discovered during manual audits is encoded as an executable YAML pattern, creating a growing knowledge base that automatically detects known vulnerability classes in future audits. | Rust |
+[ZkPatternFuzz](https://github.com/Teycir/ZkPatternFuzz) Private repo |  ZkPatternFuzz is a security testing framework that automates accumulated audit expertise. Each vulnerability discovered during manual audits is encoded as an executable YAML pattern, creating a growing knowledge base that automatically detects known vulnerability classes in future audits. | Rust |
 [GhostReceipt](https://github.com/Teycir/Ghostreceipt) |  GhostReceipt is a privacy-first app that lets users prove payment facts (amount and time window) with zero-knowledge proofs while redacting sender, receiver, and tx hash from shared receipts. | Typescript . Circom . SnarkJs |
 ---
 
@@ -78,7 +78,7 @@ Pattern-driven detection across ZK circuit layers — Circom · Noir · Cairo ·
 | [burp-mcp-server](https://github.com/Teycir/burp-mcp-server) | MCP server interface for Burp Suite tooling. | JavaScript |
 | [IotScanner](https://github.com/Teycir/IotScanner) | IoT device discovery and attack surface scanning. | Python |
 | [honeypotscan](https://github.com/Teycir/honeypotscan) | Free honeypot token scanner for Ethereum, Polygon & Arbitrum. 13 detection patterns, no API keys required. | TypeScript |
-| [ApiHunter](https://github.com/Teycir/ApiHunter) | An async, modular web security scanner written in Rust. Great for quickly baselining API exposure in staging or production-like environments, and for catching regressions after gateway, WAF, or auth changes. Innovation: combines discovery + targeted checks (CORS/CSP/GraphQL/OpenAPI/JWT) with fast, adaptive concurrency, producing actionable outputs (NDJSON/SARIF) that slot into CI. | Rust |
+| [ApiHunter](https://github.com/Teycir/ApiHunter) Private repo | An async, modular web security scanner written in Rust. Great for quickly baselining API exposure in staging or production-like environments, and for catching regressions after gateway, WAF, or auth changes. Innovation: combines discovery + targeted checks (CORS/CSP/GraphQL/OpenAPI/JWT) with fast, adaptive concurrency, producing actionable outputs (NDJSON/SARIF) that slot into CI. | Rust |
 
 ---
 
