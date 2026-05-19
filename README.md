@@ -63,8 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Teycir&show_icons=true&theme=transparent&title_color=c8960c&text_color=a0a0b0&icon_color=c8960c&border_color=2a2a3e&bg_color=0d0d0d&hide_border=false&rank_icon=github&custom_title=Output+That+Ships&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teycir&layout=compact&theme=transparent&title_color=c8960c&text_color=a0a0b0&border_color=2a2a3e&bg_color=0d0d0d&langs_count=8" height="165"/>
 
 <br/><br/>
