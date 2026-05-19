@@ -117,8 +117,8 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**Timeseal** ⭐48](https://github.com/Teycir/Timeseal) | Time-locked encryption vault · Dead Man's Switch · AES-256 split-key | `TypeScript` |
-| [**Sanctum** ⭐40](https://github.com/Teycir/Sanctum) | Zero-trust vault · XChaCha20-Poly1305 · Argon2id · Plausible deniability | `TypeScript` |
+| [**Timeseal** ](https://github.com/Teycir/Timeseal) | Time-locked encryption vault · Dead Man's Switch · AES-256 split-key | `TypeScript` |
+| [**Sanctum** ](https://github.com/Teycir/Sanctum) | Zero-trust vault · XChaCha20-Poly1305 · Argon2id · Plausible deniability | `TypeScript` |
 | [**Ghostreceipt**](https://github.com/Teycir/Ghostreceipt) | ZK payment proofs · PII redaction · Multi-chain consensus oracle | `TypeScript` |
 | [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
 | [**GhostChat**](https://github.com/Teycir/GhostChat) | True P2P encrypted chat · WebRTC · serverless · self-destructing | `TypeScript` |
@@ -153,7 +153,7 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**Mcpwn** ⭐21](https://github.com/Teycir/Mcpwn) | Automated MCP security scanner · RCE · Path traversal · Prompt injection | `Python` |
+| [**Mcpwn** ](https://github.com/Teycir/Mcpwn) | Automated MCP security scanner · RCE · Path traversal · Prompt injection | `Python` |
 | [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | Burp Suite ↔ Claude integration | `Python` |
 | [**nuclei-mcp**](https://github.com/Teycir/nuclei-mcp) | Nuclei scanner exposed as MCP | `TypeScript` |
 | [**frida-mcp**](https://github.com/Teycir/frida-mcp) | Frida dynamic instrumentation via MCP | `Python` |
