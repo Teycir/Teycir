@@ -93,22 +93,22 @@
 
 ## 🔌 Privacy Chrome Extensions
 
-| Project | Description |
-|:--------|:------------|
-| [**Sanitizit**](https://github.com/Teycir/Sanitizit) | Auto-redact PII before sharing with AI assistants |
-| [**ScrambleText**](https://github.com/Teycir/ScrambleText) | Homoglyph transforms to evade AI/moderation systems |
-| [**LibreWolfTorRouting**](https://github.com/Teycir/LibreWolfTorRouting) | One-click Tor routing for LibreWolf |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**Sanitizit**](https://github.com/Teycir/Sanitizit) | Auto-redact PII before sharing with AI assistants | `TypeScript` |
+| [**ScrambleText**](https://github.com/Teycir/ScrambleText) | Homoglyph transforms to evade AI/moderation systems | `TypeScript` |
+| [**LibreWolfTorRouting**](https://github.com/Teycir/LibreWolfTorRouting) | One-click Tor routing for LibreWolf | `TypeScript` |
 
 ---
 
 ## 🛠️ Burp Suite Extensions
 
-| Project | Description |
-|:--------|:------------|
-| [**BurpAPISecuritySuite**](https://github.com/Teycir/BurpAPISecuritySuite) | 15 attack types · 108+ payloads · BOLA/IDOR detection · AI integration · OWASP API Top 10 |
-| [**BurpWpsScan**](https://github.com/Teycir/BurpWpsScan) | WordPress deep scanning extension |
-| [**BurpCopyIssues**](https://github.com/Teycir/BurpCopyIssues) | Easy issue copy extension |
-| [**BurpComplianceScanner**](https://github.com/Teycir/BurpComplianceScanner) | Compliance and regulatory scan automation |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**BurpAPISecuritySuite**](https://github.com/Teycir/BurpAPISecuritySuite) | 15 attack types · 108+ payloads · BOLA/IDOR detection · AI integration · OWASP API Top 10 | `Python` |
+| [**BurpWpsScan**](https://github.com/Teycir/BurpWpsScan) | WordPress deep scanning extension | `Python` |
+| [**BurpCopyIssues**](https://github.com/Teycir/BurpCopyIssues) | Easy issue copy extension | `Python` |
+| [**BurpComplianceScanner**](https://github.com/Teycir/BurpComplianceScanner) | Compliance and regulatory scan automation | `Python` |
 
 
 ---
@@ -136,14 +136,4 @@
 | [**fft-exploit-poc**](https://github.com/Teycir/fft-exploit-poc) | FFT circuit missing canonical bound PoC | `Shell` |
 
 ---
-
-## 💰 Blockchain & Financial Tools
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| [**DeltaOpportunitySniper**](https://github.com/Teycir/DeltaOpportunitySniper) | FDA & economic signal monitor · implied probability · Polymarket mispricing alerts | `Python` |
-| [**NoteBookInsiders**](https://github.com/Teycir/NoteBookInsiders) | Insider trading data analysis | `Jupyter` |
-
----
-
 
