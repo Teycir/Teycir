@@ -16,8 +16,8 @@
 </tr>
 
 <tr>
-<td><b>ZK Cryptography</b></td>
-<td>Circuit audits · SMT validation</td>
+<td><b>Cryptography</b></td>
+<td>Circuit audits · SMT validation . E2E encryption</td>
 </tr>
 
 <tr>
