@@ -98,6 +98,7 @@
 | [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
 | [**GhostChat**](https://github.com/Teycir/GhostChat) | True P2P encrypted chat · WebRTC · serverless · self-destructing | `TypeScript` |
 | [**xmrproof**](https://github.com/Teycir/xmrproof) | Monero payment verification · 100% client-side | `TypeScript` |
+| [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT and threat scanner | `TypeScript` |
 | [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` |
 | [**SolarClose**](https://github.com/Teycir/SolarClose) | Solar energy economy calculator | `TypeScript` |
 
