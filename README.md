@@ -150,15 +150,14 @@
 
 ---
 
-## 🔐 ZK Tools & Research
+## 🔐 ZK POC
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**zk-fft**](https://github.com/Teycir/zk-fft) | ZK proof of FFT computation using RISC0 zkVM | `Rust` |
-| [**zklibreports**](https://github.com/Teycir/zklibreports) | Public ZK audit reports and security analyses | — |
-| [**circomlib-exploit**](https://github.com/Teycir/circomlib-exploit) | PoC for underconstrained Decoder vulnerability | `Rust` `Solidity` |
-| [**zk-email-verify-exploit**](https://github.com/Teycir/zk-email-verify-exploit) | PoC for cross-instance signature replay | — |
-| [**zkevm-prover-exploit**](https://github.com/Teycir/zkevm-prover-exploit) | PoC for unauthenticated gRPC exposure | — |
+| [**zklibreports**](https://github.com/Teycir/zklibreports) | Public ZK audit reports and security analyses | `Shell` |
+| [**circomlib-exploit**](https://github.com/Teycir/circomlib-exploit) | PoC for underconstrained Decoder vulnerability | `Shell` |
+| [**zk-email-verify-exploit**](https://github.com/Teycir/zk-email-verify-exploit) | PoC for cross-instance signature replay | `Shell` |
+| [**zkevm-prover-exploit**](https://github.com/Teycir/zkevm-prover-exploit) | PoC for unauthenticated gRPC exposure | `Shell` |
 | [**fft-exploit-poc**](https://github.com/Teycir/fft-exploit-poc) | FFT circuit missing canonical bound PoC | `Shell` |
 
 ---
