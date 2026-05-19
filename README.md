@@ -21,7 +21,7 @@
 </tr>
 
 <tr>
-<td><b>Rust Systems</b></td>
+<td><b>Red team tools</b></td>
 <td>Async scanners · SARIF · CVE tooling</td>
 </tr>
 
