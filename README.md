@@ -63,14 +63,11 @@
 
 ## 📊 GitHub Stats
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teycir&layout=compact&theme=transparent&title_color=c8960c&text_color=a0a0b0&border_color=2a2a3e&bg_color=0d0d0d&langs_count=8" height="165"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Teycir&theme=transparent&ring=c8960c&fire=c8960c&currStreakLabel=c8960c&sideLabels=a0a0b0&currStreakNum=ffffff&dates=a0a0b0&stroke=2a2a3e&background=0d0d0d&border=2a2a3e"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Teycir&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews"/>
 
