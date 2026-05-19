@@ -112,19 +112,6 @@
 | [**BurpCopyIssues**](https://github.com/Teycir/BurpCopyIssues) | Easy issue copy extension |
 | [**BurpComplianceScanner**](https://github.com/Teycir/BurpComplianceScanner) | Compliance and regulatory scan automation |
 
----
-
-## 🤖 MCP Servers
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| [**Mcpwn** ](https://github.com/Teycir/Mcpwn) | Automated MCP security scanner · RCE · Path traversal · Prompt injection | `Python` |
-| [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | Burp Suite ↔ Claude integration | `Python` |
-| [**nuclei-mcp**](https://github.com/Teycir/nuclei-mcp) | Nuclei scanner exposed as MCP | `TypeScript` |
-| [**frida-mcp**](https://github.com/Teycir/frida-mcp) | Frida dynamic instrumentation via MCP | `Python` |
-| [**nmap-mcp**](https://github.com/Teycir/nmap-mcp) | Nmap port scanning via MCP | `Python` |
-| [**adb-mcp**](https://github.com/Teycir/adb-mcp) | Android Debug Bridge as MCP | `Python` |
-| [**ripgrep-mcp**](https://github.com/Teycir/ripgrep-mcp) | Code search for AI agents | `Python` |
 
 ---
 
