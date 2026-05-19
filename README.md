@@ -88,7 +88,6 @@ Organized by domain/type of application. **100+ repositories** across security, 
 
 | Project | Description | Tech | Private |
 |---------|-------------|------|---------|
-| [eigen-zkvm](https://github.com/Teycir/eigen-zkvm) | Rust zkVM with modular proof system | Rust | No |
 | [zk-fft](https://github.com/Teycir/zk-fft) | ZK proof of FFT with RISC0 zkVM | Rust | No |
 | [zklibreports](https://github.com/Teycir/zklibreports) | ZK audit reports and analysis | - | No |
 | [ZkPatternMatcher](https://github.com/Teycir/ZkPatternMatcher) | Pattern-based vulnerability detection for ZK circuits. Scan code against YAML patterns | Rust | No |
