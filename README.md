@@ -9,7 +9,6 @@ A comprehensive overview of all my public and private repositories organized by 
 | Repository | Description | Status |
 |---|---|---|
 | [DiffCatcher](https://github.com/Teycir/DiffCatcher) | CLI tool for recursive Git discovery, state capture, and security-focused code review reports | Public |
-| [eigen-zkvm](https://github.com/Teycir/eigen-zkvm) | A Rust zkVM with a Modular Proof System | Public |
 | [ApiHunter](https://github.com/Teycir/ApiHunter) | Async API security scanner for CORS, CSP, GraphQL, JWT, OpenAPI, and active API posture checks | Private |
 | [smartcontractpatternfinder](https://github.com/Teycir/smartcontractpatternfinder) | High-performance tool for detecting security vulnerabilities in smart contracts | Private |
 | [ZkPatternMatcher](https://github.com/Teycir/ZkPatternMatcher) | Pattern-based vulnerability detection for Zero-Knowledge proof circuits | Public |
