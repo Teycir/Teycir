@@ -26,16 +26,6 @@
 </tr>
 
 <tr>
-<td><b>MCP Security</b></td>
-<td>RCE · Path traversal · Prompt injection</td>
-</tr>
-
-<tr>
-<td><b>Smart Contracts</b></td>
-<td>UUPS · Reentrancy · Code4rena</td>
-</tr>
-
-<tr>
 <td><b>Privacy Tools</b></td>
 <td>ZK proofs · XChaCha20 · Deniability</td>
 </tr>
