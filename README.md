@@ -1,179 +1,187 @@
-# 📚 My Repositories
+<div align="center">
 
-Organized by domain/type of application. **100+ repositories** across security, privacy, blockchain, and developer tools.
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:c8960c&height=200&section=header&text=Teycir%20Ben%20Soltane&fontSize=42&fontColor=c8960c&fontAlignY=38&desc=Security%20Tool%20Builder%20%7C%20ZK%20Researcher%20%7C%20Rust%20Systems&descColor=a0a0b0&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<!-- DOMAIN BADGES -->
+<img src="https://img.shields.io/badge/API%20Security-Critical%20Research-c8960c?style=for-the-badge&logo=owasp&logoColor=c8960c&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ZK%20Cryptography-Circuit%20Audits-c8960c?style=for-the-badge&logo=ethereum&logoColor=c8960c&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Rust%20Systems-Low%20Level-c8960c?style=for-the-badge&logo=rust&logoColor=c8960c&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MCP%20Tooling-Security%20Infra-c8960c?style=for-the-badge&logo=anthropic&logoColor=c8960c&labelColor=0d0d0d"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Smart%20Contract%20Security-Cyfrin%20Certified-c8960c?style=for-the-badge&logo=solidity&logoColor=c8960c&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OSINT%20%26%20Recon-Automated%20Tooling-c8960c?style=for-the-badge&logo=kalilinux&logoColor=c8960c&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Privacy%20Tools-ZK%20%26%20Crypto-c8960c?style=for-the-badge&logo=tor-project&logoColor=c8960c&labelColor=0d0d0d"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⬡ Core Domains
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  API SECURITY      CVE-level research · OWASP Top 10 · Burp Extensions  │
+│  ZK CRYPTOGRAPHY   Circuit audits · SMT-validated · Coordinated disclose │
+│  RUST SYSTEMS      Async scanners · SARIF output · CVE templates         │
+│  MCP SECURITY      RCE · Path traversal · Prompt injection detection     │
+│  SMART CONTRACTS   Code4rena · UUPS · Reentrancy · Delta-neutral hedging  │
+│  PRIVACY TOOLS     ZK proofs · XChaCha20 · Plausible deniability         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=rust,python,ts,java,solidity,bash&theme=dark&perline=6"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,cloudflare,docker,linux,github&theme=dark&perline=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Teycir&show_icons=true&theme=transparent&title_color=c8960c&text_color=a0a0b0&icon_color=c8960c&border_color=2a2a3e&bg_color=0d0d0d&hide_border=false&rank_icon=github&custom_title=Output+That+Ships&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teycir&layout=compact&theme=transparent&title_color=c8960c&text_color=a0a0b0&border_color=2a2a3e&bg_color=0d0d0d&langs_count=8" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Teycir&theme=transparent&ring=c8960c&fire=c8960c&currStreakLabel=c8960c&sideLabels=a0a0b0&currStreakNum=ffffff&dates=a0a0b0&stroke=2a2a3e&background=0d0d0d&border=2a2a3e"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Teycir&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Active CVE Disclosures
+
+</div>
+
+| ID | Target | Severity | Vector | Status |
+|:---|:-------|:--------:|:-------|:------:|
+| GHSA-wr6f-c7g2-gmfj | `circomlib` — Underconstrained Decoder | ![](https://img.shields.io/badge/CVSS%207.1-HIGH-c8960c?style=flat-square&labelColor=0d0d0d) | ZK circuit logic | Published |
+| GHSA-22mg-j6pf-g6v4 | `zkevm-prover` — Unauthenticated gRPC | ![](https://img.shields.io/badge/CVSS%207.5-HIGH-c8960c?style=flat-square&labelColor=0d0d0d) | Network exposure | Published |
+| Pending | `zk-email-verify` — Signature replay | ![](https://img.shields.io/badge/CVSS%207.5-HIGH-c8960c?style=flat-square&labelColor=0d0d0d) | Cross-instance replay | Coordinated |
+| Pending | `eigen-zkvm` — FFT missing canonical bound | ![](https://img.shields.io/badge/MEDIUM-c8960c?style=flat-square&labelColor=0d0d0d) | Circuit arithmetic | Coordinated |
+
+> All findings formally validated with Z3/CVC5 SMT solvers before disclosure. No technical details released without a GHSA in place.
 
 ---
 
 ## 🌐 Websites & Web Applications
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [honeypotscan](https://github.com/Teycir/honeypotscan) | Free honeypot token scanner for Ethereum, Polygon & Arbitrum. Detect scam tokens with 13 specialized patterns. | TypeScript, Next.js 16, Cloudflare Workers | No |
-| [Ghostreceipt](https://github.com/Teycir/Ghostreceipt) | Privacy-first app proving payment facts with zero-knowledge proofs while redacting PII | TypeScript | No |
-| [GhostChat](https://github.com/Teycir/GhostChat) | True P2P encrypted chat via WebRTC. Messages vanish, no servers, no accounts, self-destructing | TypeScript | No |
-| [xmrproof](https://github.com/Teycir/xmrproof) | Verify Monero payments using transaction private keys. 100% client-side verification | TypeScript | No |
-| [SolarClose](https://github.com/Teycir/SolarClose) | Solar energy economy calculator | TypeScript | No |
-| [DashBoard](https://github.com/Teycir/DashBoard) | Data visualization dashboard | HTML, JavaScript | No |
-| [portfolio-website](https://github.com/Teycir/portfolio-website) | Personal portfolio website | TypeScript | Yes |
-| [Timeseal](https://github.com/Teycir/Timeseal) | Time-locked encryption vault with Dead Man's Switch. AES-256, split-key crypto | TypeScript | No |
-| [Sanctum](https://github.com/Teycir/Sanctum) | Zero-trust encrypted vault with cryptographic plausible deniability. RAM-only, IPFS-backed | TypeScript | No |
-| [TrustCircle](https://github.com/Teycir/TrustCircle) | Vault to timestamp files and save them on IPFS | TypeScript | No |
-| [bensoltaneteycir.tn](https://github.com/Teycir/bensoltaneteycir.tn) | Personal website | HTML | Yes |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**Timeseal** ⭐48](https://github.com/Teycir/Timeseal) | Time-locked encryption vault · Dead Man's Switch · AES-256 split-key | `TypeScript` |
+| [**Sanctum** ⭐40](https://github.com/Teycir/Sanctum) | Zero-trust vault · XChaCha20-Poly1305 · Argon2id · Plausible deniability | `TypeScript` |
+| [**Ghostreceipt**](https://github.com/Teycir/Ghostreceipt) | ZK payment proofs · PII redaction · Multi-chain consensus oracle | `TypeScript` |
+| [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
+| [**GhostChat**](https://github.com/Teycir/GhostChat) | True P2P encrypted chat · WebRTC · serverless · self-destructing | `TypeScript` |
+| [**xmrproof**](https://github.com/Teycir/xmrproof) | Monero payment verification · 100% client-side | `TypeScript` |
+| [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` |
+| [**SolarClose**](https://github.com/Teycir/SolarClose) | Solar energy economy calculator | `TypeScript` |
 
 ---
 
 ## 🔌 Chrome Extensions
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [Gist](https://github.com/Teycir/Gist) | Summarize, store and share web searches | HTML, JavaScript | No |
-| [Chuckle](https://github.com/Teycir/Chuckle) | Meme generator extension | HTML, JavaScript | No |
-| [ScrambleText](https://github.com/Teycir/ScrambleText) | Transform text with homoglyphs to confuse AI and moderation systems | HTML, JavaScript | No |
-| [Sanitizit](https://github.com/Teycir/Sanitizit) | Automatically redact PII before sharing with AI assistants | HTML, JavaScript | No |
-| [LibreWolfTorRouting](https://github.com/Teycir/LibreWolfTorRouting) | Route through Tor network with a single click | HTML, JavaScript | No |
-| [librewolf-cookie-extension](https://github.com/Teycir/librewolf-cookie-extension) | Cookie management for LibreWolf | JavaScript | Yes |
-| [Excalibur](https://github.com/Teycir/Excalibur) | Dual-component security testing tool. Chrome extension records HTTP traffic during manual interaction. HAR file import for automated testing | Chrome Extension, Python | Yes |
+| Project | Description |
+|:--------|:------------|
+| [**Sanitizit**](https://github.com/Teycir/Sanitizit) | Auto-redact PII before sharing with AI assistants |
+| [**ScrambleText**](https://github.com/Teycir/ScrambleText) | Homoglyph transforms to evade AI/moderation systems |
+| [**LibreWolfTorRouting**](https://github.com/Teycir/LibreWolfTorRouting) | One-click Tor routing for LibreWolf |
+| [**Gist**](https://github.com/Teycir/Gist) | Summarize, store and share web searches |
 
 ---
 
 ## 🛠️ Burp Suite Extensions
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [BurpAPISecuritySuite](https://github.com/Teycir/BurpAPISecuritySuite) | Comprehensive API security extension: 15 attack types, 108+ payloads, BOLA/IDOR detection, AI integration, Nuclei & Turbo Intruder support | Java, Python | No |
-| [BurpWpsScan](https://github.com/Teycir/BurpWpsScan) | WordPress security scanning extension | Java | No |
-| [BurpComplianceScanner](https://github.com/Teycir/BurpComplianceScanner) | Compliance and security scanning | Java | No |
-| [BurpCopyIssues](https://github.com/Teycir/BurpCopyIssues) | Easily copy issues from Burp | Java | No |
-| [BurpGhostHunt](https://github.com/Teycir/BurpGhostHunt) | Advanced ghost hunting for Burp Suite | Java | Yes |
+| Project | Description |
+|:--------|:------------|
+| [**BurpAPISecuritySuite**](https://github.com/Teycir/BurpAPISecuritySuite) | 15 attack types · 108+ payloads · BOLA/IDOR detection · AI integration · OWASP API Top 10 |
+| [**BurpWpsScan**](https://github.com/Teycir/BurpWpsScan) | WordPress deep scanning extension |
+| [**BurpComplianceScanner**](https://github.com/Teycir/BurpComplianceScanner) | Compliance and regulatory scan automation |
 
 ---
 
-## 🤖 Model Context Protocol (MCP) Servers
+## 🤖 MCP Servers
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [burp-mcp-server](https://github.com/Teycir/burp-mcp-server) | MCP server for Burp Suite integration | Python | No |
-| [adb-mcp](https://github.com/Teycir/adb-mcp) | Android Debug Bridge MCP server | Python | No |
-| [frida-mcp](https://github.com/Teycir/frida-mcp) | Frida dynamic instrumentation MCP server | Python | No |
-| [nuclei-mcp](https://github.com/Teycir/nuclei-mcp) | Nuclei vulnerability scanner MCP server | TypeScript | No |
-| [nmap-mcp](https://github.com/Teycir/nmap-mcp) | Nmap port scanning MCP server | Python | No |
-| [ripgrep-mcp](https://github.com/Teycir/ripgrep-mcp) | Ripgrep code search MCP server | Python | No |
-| [afl--mcp](https://github.com/Teycir/afl--mcp) | AFL fuzzer MCP server | Python | Yes |
-| [amass-mcp](https://github.com/Teycir/amass-mcp) | Amass OSINT MCP server | Python | Yes |
-| [apkkeep-mcp](https://github.com/Teycir/apkkeep-mcp) | APK analysis MCP server | Python | Yes |
-| [binwalk-mcp](https://github.com/Teycir/binwalk-mcp) | Binwalk firmware analysis MCP server | Python | Yes |
-| [mitmdump-mcp](https://github.com/Teycir/mitmdump-mcp) | mitmproxy dump MCP server | Python | Yes |
-| [mitmproxy-mcp](https://github.com/Teycir/mitmproxy-mcp) | mitmproxy MCP server | Python | Yes |
-| [idamcp](https://github.com/Teycir/idamcp) | IDA Pro debugger MCP server | Python | Yes |
-| [ghidramcp](https://github.com/Teycir/ghidramcp) | Ghidra reverse engineering MCP server | Java | Yes |
-| [hxd-mcp](https://github.com/Teycir/hxd-mcp) | HxD hex editor MCP server | - | Yes |
-| [McpInsomnia](https://github.com/Teycir/McpInsomnia) | Insomnia API testing MCP server | TypeScript | Yes |
-| [mcpwireshark](https://github.com/Teycir/mcpwireshark) | Wireshark packet analysis MCP server | JavaScript | Yes |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**Mcpwn** ⭐21](https://github.com/Teycir/Mcpwn) | Automated MCP security scanner · RCE · Path traversal · Prompt injection | `Python` |
+| [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | Burp Suite ↔ Claude integration | `Python` |
+| [**nuclei-mcp**](https://github.com/Teycir/nuclei-mcp) | Nuclei scanner exposed as MCP | `TypeScript` |
+| [**frida-mcp**](https://github.com/Teycir/frida-mcp) | Frida dynamic instrumentation via MCP | `Python` |
+| [**nmap-mcp**](https://github.com/Teycir/nmap-mcp) | Nmap port scanning via MCP | `Python` |
+| [**adb-mcp**](https://github.com/Teycir/adb-mcp) | Android Debug Bridge as MCP | `Python` |
+| [**ripgrep-mcp**](https://github.com/Teycir/ripgrep-mcp) | Code search for AI agents | `Python` |
 
 ---
 
-## 🧪 Proof of Concepts (POCs) & Exploits
+## 🔍 Security Scanners & OSINT
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [circomlib-exploit](https://github.com/Teycir/circomlib-exploit) | Circom library vulnerability POC | Rust, Solidity | No |
-| [fft-exploit-poc](https://github.com/Teycir/fft-exploit-poc) | FFT exploitation proof of concept | Shell | No |
-| [taiko-mono-exploit](https://github.com/Teycir/taiko-mono-exploit) | Taiko protocol exploit | - | No |
-| [zk-email-verify-exploit](https://github.com/Teycir/zk-email-verify-exploit) | ZK email verification bypass | - | No |
-| [zkevm-prover-exploit](https://github.com/Teycir/zkevm-prover-exploit) | zkEVM prover vulnerability | - | No |
-
----
-
-## 🔐 Zero-Knowledge Proof (ZK) Tools & Research
-
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [zk-fft](https://github.com/Teycir/zk-fft) | ZK proof of FFT with RISC0 zkVM | Rust | No |
-| [zklibreports](https://github.com/Teycir/zklibreports) | ZK audit reports and analysis | - | No |
-| [ZkPatternMatcher](https://github.com/Teycir/ZkPatternMatcher) | Pattern-based vulnerability detection for ZK circuits. Scan code against YAML patterns | Rust | No |
-| [ZkPatternFuzz](https://github.com/Teycir/ZkPatternFuzz) | Security testing framework. Each vulnerability = YAML pattern for future detection | Rust | Yes |
-| [smartcontractpatternfinder](https://github.com/Teycir/smartcontractpatternfinder) | Detect security vulnerabilities in smart contracts. Ethereum mainnet, YAML patterns, SARIF output | Rust | Yes |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**ApiHunter**](https://github.com/Teycir/ApiHunter) | Async API security scanner · WAF evasion · CVE templates · SARIF/NDJSON | `Rust` |
+| [**DiffCatcher**](https://github.com/Teycir/DiffCatcher) | Git repo discovery · diff capture · code element extraction | `Rust` |
+| [**ZkPatternMatcher**](https://github.com/Teycir/ZkPatternMatcher) | YAML-pattern vuln detection for ZK circuits | `Rust` |
+| [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT on IP / domain / ASN | `Python` |
+| [**IotScanner**](https://github.com/Teycir/IotScanner) | IoT device vulnerability scanner | `Python` |
 
 ---
 
-## 🔍 Security Scanners & OSINT Tools
+## 🔐 ZK Tools & Research
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [Mcpwn](https://github.com/Teycir/Mcpwn) | Automated security scanner for MCP servers. Detects RCE, path traversal, prompt injection | Python | No |
-| [DiffCatcher](https://github.com/Teycir/DiffCatcher) | Rust CLI: recursively discovers Git repos, captures diffs, extracts code elements for security audits | Rust | No |
-| [IotScanner](https://github.com/Teycir/IotScanner) | IoT device vulnerability scanner | Python | No |
-| [SeekYou](https://github.com/Teycir/SeekYou) | OSINT intelligence on IP, domain, or ASN | Python | No |
-| [ApiHunter](https://github.com/Teycir/ApiHunter) | Async API security scanner in Rust. CORS, CSP, GraphQL, JWT, OpenAPI, active API posture checks | Rust | Yes |
-| [APIPentesting](https://github.com/Teycir/APIPentesting) | API penetration testing toolkit | Python | Yes |
-| [APIVulnSkimmer](https://github.com/Teycir/APIVulnSkimmer) | Automatic API vulnerability detection | Python | Yes |
-| [Dorky](https://github.com/Teycir/Dorky) | Google dork automation and vulnerability discovery | Python | Yes |
-| [Vulnhunter](https://github.com/Teycir/Vulnhunter) | Vulnerability hunting tool | Python | Yes |
-| [WebVulnHunter](https://github.com/Teycir/WebVulnHunter) | Web vulnerability scanner | Python | Yes |
-| [SecretScout](https://github.com/Teycir/SecretScout) | Secret and credential detection | Python | Yes |
-| [DeepIDOR](https://github.com/Teycir/DeepIDOR) | IDOR (Insecure Direct Object Reference) detection | Python | Yes |
-| [BrowserScriptRunner](https://github.com/Teycir/BrowserScriptRunner) | Run automated scripts in browser for security testing | Python | Yes |
-
----
-
-## 📱 Mobile & Desktop Applications
-
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [BlenderController](https://github.com/Teycir/BlenderController) | Blender 3D controller integration | Python | Yes |
-| [PygubuAI](https://github.com/Teycir/PygubuAI) | AI-native workflow system for Tkinter UI development in plain English | Python | No |
-| [breakoutgame](https://github.com/Teycir/breakoutgame) | Breakout game desktop application | C# | No |
-| [RedTeamToolkitForAndroid](https://github.com/Teycir/RedTeamToolkitForAndroid) | Red team toolkit for Android penetration testing | Shell, Python | Yes |
-| [frida-waydroid-launcher](https://github.com/Teycir/frida-waydroid-launcher) | Launch Frida dynamic instrumentation on Waydroid Android emulator | Shell | Yes |
-| [burp-waydroid-connecter](https://github.com/Teycir/burp-waydroid-connecter) | Connect Burp Suite to Waydroid for mobile testing | Python | Yes |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**zk-fft**](https://github.com/Teycir/zk-fft) | ZK proof of FFT computation using RISC0 zkVM | `Rust` |
+| [**zklibreports**](https://github.com/Teycir/zklibreports) | Public ZK audit reports and security analyses | — |
+| [**circomlib-exploit**](https://github.com/Teycir/circomlib-exploit) | PoC for underconstrained Decoder vulnerability | `Rust` `Solidity` |
+| [**zk-email-verify-exploit**](https://github.com/Teycir/zk-email-verify-exploit) | PoC for cross-instance signature replay | — |
+| [**zkevm-prover-exploit**](https://github.com/Teycir/zkevm-prover-exploit) | PoC for unauthenticated gRPC exposure | — |
+| [**fft-exploit-poc**](https://github.com/Teycir/fft-exploit-poc) | FFT circuit missing canonical bound PoC | `Shell` |
 
 ---
 
 ## 💰 Blockchain & Financial Tools
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [DeltaOpportunitySniper](https://github.com/Teycir/DeltaOpportunitySniper) | Monitor FDA drug approval & US economic signals, compute implied probabilities, fire multi-channel Polymarket alerts on mispricing | Python | Yes |
-| [SwissRealEstate](https://github.com/Teycir/SwissRealEstate) | Swiss real estate data charting and analysis | Python | Yes |
-| [NoteBookInsiders](https://github.com/Teycir/NoteBookInsiders) | Analysis of scraped insider trading data | Jupyter Notebook | Yes |
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**DeltaOpportunitySniper**](https://github.com/Teycir/DeltaOpportunitySniper) | FDA & economic signal monitor · implied probability · Polymarket mispricing alerts | `Python` |
+| [**NoteBookInsiders**](https://github.com/Teycir/NoteBookInsiders) | Insider trading data analysis | `Jupyter` |
 
 ---
 
-## 🛠️ Developer & Data Tools
+<div align="center">
 
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [EmojiSmuggler](https://github.com/Teycir/EmojiSmuggler) | Emoji stenography tool | HTML, JavaScript | No |
-| [emojiadder](https://github.com/Teycir/emojiadder) | Add and manage emojis | - | No |
-| [CsharpFinvizScraper](https://github.com/Teycir/CsharpFinvizScraper) | Finviz financial data scraper | C# | No |
-| [TemperatureConverter](https://github.com/Teycir/TemperatureConverter) | Temperature unit converter utility | - | No |
-| [infinitezoom](https://github.com/Teycir/infinitezoom) | Infinite zoom visualization | JavaScript | Yes |
-| [textalign](https://github.com/Teycir/textalign) | Text alignment and formatting tool | - | Yes |
-| [LicenceGenerator](https://github.com/Teycir/LicenceGenerator) | License key generator | C# | Yes |
-| [IpfsGithub](https://github.com/Teycir/IpfsGithub) | IPFS integration tool | TeX | Yes |
-| [Relay](https://github.com/Teycir/Relay) | Data relay and forwarding system | - | Yes |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8960c,50:1a1a2e,100:0d0d0d&height=100&section=footer&text=Build%20things%20that%20outlast%20the%20noise&fontSize=14&fontColor=a0a0b0&fontAlignY=65&animation=fadeIn" width="100%"/>
 
----
-
-## 📚 Other Projects
-
-| Project | Description | Tech | Private |
-|---------|-------------|------|---------|
-| [API](https://github.com/Teycir/API) | General API project | - | Yes |
-| [Openclassrooms_project7](https://github.com/Teycir/Openclassrooms_project7) | Educational project from Openclassrooms | Jupyter Notebook | No |
-| [Teycir](https://github.com/Teycir/Teycir) | Profile configuration repository | - | No |
-| [Prophecy](https://github.com/Teycir/Prophecy) | - | - | Yes |
-| [MobileAppComplianceToolkit](https://github.com/Teycir/MobileAppComplianceToolkit) | Mobile app compliance checking | Shell | Yes |
-
----
-
-## 📊 Summary
-
-- **Total Repositories**: 100+
-- **Public**: 37
-- **Private**: 63
-- **Primary Specializations**: API Security, Reverse Engineering, Zero-Knowledge Proofs, Privacy Tools, OSINT, Burp Suite Extensions, MCP Servers, Smart Contract Security
-
----
-
-*Last updated: 2026-05-19*
+</div>
