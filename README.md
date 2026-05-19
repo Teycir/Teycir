@@ -78,7 +78,7 @@
 
 ---
 
-## 🌐 Websites & Web Applications
+## 🌐 Web Applications
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
