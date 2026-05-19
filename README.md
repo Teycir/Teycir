@@ -121,6 +121,7 @@
 |:--------|:------------|
 | [**BurpAPISecuritySuite**](https://github.com/Teycir/BurpAPISecuritySuite) | 15 attack types · 108+ payloads · BOLA/IDOR detection · AI integration · OWASP API Top 10 |
 | [**BurpWpsScan**](https://github.com/Teycir/BurpWpsScan) | WordPress deep scanning extension |
+| [**BurpCopyIssues**](https://github.com/Teycir/BurpCopyIssues) | Easy issue copy extension |
 | [**BurpComplianceScanner**](https://github.com/Teycir/BurpComplianceScanner) | Compliance and regulatory scan automation |
 
 ---
