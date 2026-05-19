@@ -82,12 +82,12 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**Timeseal** ](https://github.com/Teycir/Timeseal) | Time-locked encryption vault · Dead Man's Switch · AES-256 split-key | `TypeScript` |
-| [**Sanctum** ](https://github.com/Teycir/Sanctum) | Zero-trust vault · XChaCha20-Poly1305 · Argon2id · Plausible deniability | `TypeScript` |
-| [**Ghostreceipt**](https://github.com/Teycir/Ghostreceipt) | ZK payment proofs · PII redaction · Multi-chain consensus oracle | `TypeScript` |
-| [**GhostChat**](https://github.com/Teycir/GhostChat) | True P2P encrypted chat · WebRTC · serverless · self-destructing | `TypeScript` |
-| [**xmrproof**](https://github.com/Teycir/xmrproof) | Monero payment verification · 100% client-side | `TypeScript` |
-| [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` |
+| [**Timeseal** ](https://github.com/Teycir/Timeseal) | Time-locked encryption vault · Dead Man's Switch · AES-256 split-key | `TypeScript` `Next.js` `CF Workers` |
+| [**Sanctum** ](https://github.com/Teycir/Sanctum) | Zero-trust vault · XChaCha20-Poly1305 · Argon2id · Plausible deniability | `TypeScript` `Next.js` `CF Workers` |
+| [**Ghostreceipt**](https://github.com/Teycir/Ghostreceipt) | ZK payment proofs · PII redaction · Multi-chain consensus oracle | `TypeScript` `Next.js` `CF Workers` |
+| [**GhostChat**](https://github.com/Teycir/GhostChat) | True P2P encrypted chat · WebRTC · serverless · self-destructing | `TypeScript` `Next.js` `CF Workers` |
+| [**xmrproof**](https://github.com/Teycir/xmrproof) | Monero payment verification · 100% client-side | `TypeScript` `Next.js` `CF Workers` |
+| [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` `Next.js` `CF Workers` |
 
 ---
 
