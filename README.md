@@ -100,7 +100,6 @@
 | [**xmrproof**](https://github.com/Teycir/xmrproof) | Monero payment verification · 100% client-side | `TypeScript` |
 | [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT and threat scanner | `TypeScript` |
 | [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` |
-| [**SolarClose**](https://github.com/Teycir/SolarClose) | Solar energy economy calculator | `TypeScript` |
 
 ---
 
@@ -111,7 +110,6 @@
 | [**Sanitizit**](https://github.com/Teycir/Sanitizit) | Auto-redact PII before sharing with AI assistants |
 | [**ScrambleText**](https://github.com/Teycir/ScrambleText) | Homoglyph transforms to evade AI/moderation systems |
 | [**LibreWolfTorRouting**](https://github.com/Teycir/LibreWolfTorRouting) | One-click Tor routing for LibreWolf |
-| [**Gist**](https://github.com/Teycir/Gist) | Summarize, store and share web searches |
 
 ---
 
