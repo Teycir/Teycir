@@ -34,16 +34,37 @@
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  API SECURITY      CVE-level research · OWASP Top 10 · Burp Extensions  │
-│  ZK CRYPTOGRAPHY   Circuit audits · SMT-validated · Coordinated disclose │
-│  RUST SYSTEMS      Async scanners · SARIF output · CVE templates         │
-│  MCP SECURITY      RCE · Path traversal · Prompt injection detection     │
-│  SMART CONTRACTS   Code4rena · UUPS · Reentrancy · Delta-neutral hedging  │
-│  PRIVACY TOOLS     ZK proofs · XChaCha20 · Plausible deniability         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<table align="center">
+<tr>
+<td><b>API Security</b></td>
+<td>CVE research · OWASP · Burp extensions</td>
+</tr>
+
+<tr>
+<td><b>ZK Cryptography</b></td>
+<td>Circuit audits · SMT validation</td>
+</tr>
+
+<tr>
+<td><b>Rust Systems</b></td>
+<td>Async scanners · SARIF · CVE tooling</td>
+</tr>
+
+<tr>
+<td><b>MCP Security</b></td>
+<td>RCE · Path traversal · Prompt injection</td>
+</tr>
+
+<tr>
+<td><b>Smart Contracts</b></td>
+<td>UUPS · Reentrancy · Code4rena</td>
+</tr>
+
+<tr>
+<td><b>Privacy Tools</b></td>
+<td>ZK proofs · XChaCha20 · Deniability</td>
+</tr>
+</table>
 
 ---
 
