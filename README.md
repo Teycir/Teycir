@@ -1,17 +1,5 @@
 
-<div align="center">
 
-<!-- DOMAIN BADGES -->
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Smart%20Contract%20Security-Cyfrin%20Certified-c8960c?style=for-the-badge&logo=solidity&logoColor=c8960c&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OSINT%20%26%20Recon-Automated%20Tooling-c8960c?style=for-the-badge&logo=kalilinux&logoColor=c8960c&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Privacy%20Tools-ZK%20%26%20Crypto-c8960c?style=for-the-badge&logo=tor-project&logoColor=c8960c&labelColor=0d0d0d"/>
-
-</div>
 
 ---
 
