@@ -1,20 +1,7 @@
-<div align="center">
-
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:c8960c&height=200&section=header&text=Teycir%20Ben%20Soltane&fontSize=42&fontColor=c8960c&fontAlignY=38&desc=Security%20Tool%20Builder%20%7C%20ZK%20Researcher%20%7C%20Rust%20Systems&descColor=a0a0b0&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-</div>
 
 <div align="center">
 
 <!-- DOMAIN BADGES -->
-<img src="https://img.shields.io/badge/API%20Security-Critical%20Research-c8960c?style=for-the-badge&logo=owasp&logoColor=c8960c&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ZK%20Cryptography-Circuit%20Audits-c8960c?style=for-the-badge&logo=ethereum&logoColor=c8960c&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Rust%20Systems-Low%20Level-c8960c?style=for-the-badge&logo=rust&logoColor=c8960c&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MCP%20Tooling-Security%20Infra-c8960c?style=for-the-badge&logo=anthropic&logoColor=c8960c&labelColor=0d0d0d"/>
 
 <br/><br/>
 
@@ -197,8 +184,4 @@
 
 ---
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8960c,50:1a1a2e,100:0d0d0d&height=100&section=footer&text=Build%20things%20that%20outlast%20the%20noise&fontSize=14&fontColor=a0a0b0&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>
