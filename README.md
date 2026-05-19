@@ -142,7 +142,6 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**ApiHunter**](https://github.com/Teycir/ApiHunter) | Async API security scanner · WAF evasion · CVE templates · SARIF/NDJSON | `Rust` |
 | [**DiffCatcher**](https://github.com/Teycir/DiffCatcher) | Git repo discovery · diff capture · code element extraction | `Rust` |
 | [**ZkPatternMatcher**](https://github.com/Teycir/ZkPatternMatcher) | YAML-pattern vuln detection for ZK circuits | `Rust` |
 | [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT on IP / domain / ASN | `Python` |
