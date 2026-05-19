@@ -78,22 +78,20 @@
 
 ---
 
-## 🌐 Web Applications
+## 🌐 Privacy web applications
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**Timeseal** ](https://github.com/Teycir/Timeseal) | Time-locked encryption vault · Dead Man's Switch · AES-256 split-key | `TypeScript` |
 | [**Sanctum** ](https://github.com/Teycir/Sanctum) | Zero-trust vault · XChaCha20-Poly1305 · Argon2id · Plausible deniability | `TypeScript` |
 | [**Ghostreceipt**](https://github.com/Teycir/Ghostreceipt) | ZK payment proofs · PII redaction · Multi-chain consensus oracle | `TypeScript` |
-| [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
 | [**GhostChat**](https://github.com/Teycir/GhostChat) | True P2P encrypted chat · WebRTC · serverless · self-destructing | `TypeScript` |
 | [**xmrproof**](https://github.com/Teycir/xmrproof) | Monero payment verification · 100% client-side | `TypeScript` |
-| [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT and threat scanner | `TypeScript` |
 | [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` |
 
 ---
 
-## 🔌 Chrome Extensions
+## 🔌 Privacy Chrome Extensions
 
 | Project | Description |
 |:--------|:------------|
@@ -123,6 +121,7 @@
 | [**ZkPatternMatcher**](https://github.com/Teycir/ZkPatternMatcher) | YAML-pattern vuln detection for ZK circuits | `Rust` |
 | [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT on IP / domain / ASN | `Python` |
 | [**IotScanner**](https://github.com/Teycir/IotScanner) | IoT device vulnerability scanner | `Python` |
+| [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
 
 ---
 
