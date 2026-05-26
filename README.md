@@ -55,7 +55,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Teycir&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Teycir&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 
 </div>
 
