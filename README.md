@@ -124,6 +124,7 @@
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | MCP vulnerability scanner | `Python` |
 | [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
 | [**Checkapis**](https://github.com/Teycir/checkapis) | Checks LLM API validity and status in batches then reports | `TypeScript` `Next.js` `CF Workers` |
+| [**AdaptiveJailbreaker**](https://github.com/Teycir/adaptivejaibreaker) | Adaptation and evolution of AJAR research paper, on Jail Breaking LLM in typescript cloudflare | `TypeScript` `Next.js` `CF Workers` |
 
 
 ---
