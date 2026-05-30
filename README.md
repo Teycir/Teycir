@@ -86,7 +86,6 @@
 | [**Sanctum** ](https://github.com/Teycir/Sanctum) | Zero-trust vault · XChaCha20-Poly1305 · Argon2id · Plausible deniability | `TypeScript` `Next.js` `CF Workers` |
 | [**Ghostreceipt**](https://github.com/Teycir/Ghostreceipt) | ZK payment proofs · PII redaction · Multi-chain consensus oracle | `TypeScript` `Next.js` `CF Workers` |
 | [**GhostChat**](https://github.com/Teycir/GhostChat) | True P2P encrypted chat · WebRTC · serverless · self-destructing | `TypeScript` `Next.js` `CF Workers` |
-| [**xmrproof**](https://github.com/Teycir/xmrproof) | Monero payment verification · 100% client-side | `TypeScript` `Next.js` `CF Workers` |
 | [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` `Next.js` `CF Workers` |
 
 ---
@@ -124,7 +123,6 @@
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | MCP vulnerability scanner | `Python` |
 | [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
 | [**Checkapis**](https://github.com/Teycir/checkapis) | Checks LLM API validity and status in batches then reports | `TypeScript` `Next.js` `CF Workers` |
-| [**AdaptiveJailbreaker**](https://github.com/Teycir/Adaptivejailbreaker) | Adaptation and evolution of AJAR research paper, on Jail Breaking LLM in typescript cloudflare | `TypeScript` `Next.js` `CF Workers` |
 
 
 ---
@@ -134,7 +132,6 @@
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
-| [**Butler**](https://github.com/Teycir/Butler) | Persistent Coordination and Memory Layer for AI Coding Agents. | `TypeScript` `Python`  |
 | [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | MCP server for Burp Suite Professional · vulnerability scanning · issue retrieval · HTTP proxying via AI assistants | `JavaScript` |
 | [**nmap-mcp**](https://github.com/Teycir/nmap-mcp) | MCP server for Nmap · stealth recon · vuln/NSE scanning · OS detection · firewall evasion · red team ops | `Python` |
 | [**nuclei-mcp**](https://github.com/Teycir/nuclei-mcp) | MCP server for Nuclei · multi-target scanning · severity filtering · template browsing · rate control | `TypeScript` |
