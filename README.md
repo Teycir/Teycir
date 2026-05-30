@@ -131,6 +131,7 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
+| [**Butler**](https://github.com/Teycir/Butler) | Persistent Coordination and Memory Layer for AI Coding Agents. | `Typescript` |
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
 | [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | MCP server for Burp Suite Professional · vulnerability scanning · issue retrieval · HTTP proxying via AI assistants | `JavaScript` |
 | [**nmap-mcp**](https://github.com/Teycir/nmap-mcp) | MCP server for Nmap · stealth recon · vuln/NSE scanning · OS detection · firewall evasion · red team ops | `Python` |
