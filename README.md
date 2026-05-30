@@ -11,6 +11,10 @@
 
 <table align="center">
 <tr>
+<td><b>MCP</b></td>
+<td>AI agent orchestrator · MCP vuilnerability finder · MCP on security tools</td>
+</tr>
+<tr>
 <td><b>API Security</b></td>
 <td>CVE research · OWASP · Burp extensions</td>
 </tr>
