@@ -49,19 +49,6 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Teycir&theme=transparent&ring=c8960c&fire=c8960c&currStreakLabel=c8960c&sideLabels=a0a0b0&currStreakNum=ffffff&dates=a0a0b0&stroke=2a2a3e&background=0d0d0d&border=2a2a3e"/>
-
-<br/>
-
-
-
-</div>
 
 ---
 
@@ -120,6 +107,7 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
+| [**APIHunter**](https://github.com/Teycir/ApiHunter) | Scrapes fast hundreds of APIs and finds vulnerabilities, bypasses WAF and uses YAML patterns that are extensible | `Rust` |
 | [**DiffCatcher**](https://github.com/Teycir/DiffCatcher) | Git repo discovery · diff capture · code element extraction | `Rust` |
 | [**ZkPatternMatcher**](https://github.com/Teycir/ZkPatternMatcher) | YAML-pattern vuln detection for ZK circuits | `Rust` |
 | [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT on IP / domain / ASN | `TypeScript` `Next.js` `CF Workers` |
