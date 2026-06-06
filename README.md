@@ -11,7 +11,7 @@
 
 <table align="center">
 <tr>
-<td><b>MCP</b></td>
+<td><b>MCP and agentic AI</b></td>
 <td>AI agent orchestrator · MCP vuilnerability finder · MCP on security tools</td>
 </tr>
 <tr>
@@ -65,6 +65,24 @@
 | Pending | `eigen-zkvm` — FFT missing canonical bound | ![](https://img.shields.io/badge/MEDIUM-c8960c?style=flat-square&labelColor=0d0d0d) | Circuit arithmetic | Coordinated |
 
 > All findings formally validated with Z3/CVC5 SMT solvers before disclosure. No technical details released without a GHSA in place.
+---
+
+## 🤖 MCP and agentic AI
+
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**ArxivExplorer**](https://github.com/Teycir/ArxivExplorer) | A static-first, AI-enhanced search engine for arXiv research papers. | `TypeScript` `Next.js` `CF Workers` |
+| [**Butler**](https://github.com/Teycir/Butler) | Persistent Coordination and Memory Layer for AI Coding Agents. | `Typescript` |
+| [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
+| [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | MCP server for Burp Suite Professional · vulnerability scanning · issue retrieval · HTTP proxying via AI assistants | `JavaScript` |
+| [**nmap-mcp**](https://github.com/Teycir/nmap-mcp) | MCP server for Nmap · stealth recon · vuln/NSE scanning · OS detection · firewall evasion · red team ops | `Python` |
+| [**nuclei-mcp**](https://github.com/Teycir/nuclei-mcp) | MCP server for Nuclei · multi-target scanning · severity filtering · template browsing · rate control | `TypeScript` |
+| [**frida-mcp**](https://github.com/Teycir/frida-mcp) | MCP server for Frida · dynamic instrumentation · SSL pinning bypass · Java/ObjC hooking · mobile red teaming | `Python` |
+| [**adb-mcp**](https://github.com/Teycir/adb-mcp) | MCP server for Android Debug Bridge · USB/network device control via AI assistants | `Python` |
+| [**ripgrep-mcp**](https://github.com/Teycir/ripgrep-mcp) | MCP server exposing ripgrep · fast regex code search for AI-driven code audits | `Python` |
+
+> A suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
+
 
 ---
 
@@ -119,22 +137,7 @@
 
 ---
 
-## 🤖 MCP
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| [**Butler**](https://github.com/Teycir/Butler) | Persistent Coordination and Memory Layer for AI Coding Agents. | `Typescript` |
-| [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
-| [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | MCP server for Burp Suite Professional · vulnerability scanning · issue retrieval · HTTP proxying via AI assistants | `JavaScript` |
-| [**nmap-mcp**](https://github.com/Teycir/nmap-mcp) | MCP server for Nmap · stealth recon · vuln/NSE scanning · OS detection · firewall evasion · red team ops | `Python` |
-| [**nuclei-mcp**](https://github.com/Teycir/nuclei-mcp) | MCP server for Nuclei · multi-target scanning · severity filtering · template browsing · rate control | `TypeScript` |
-| [**frida-mcp**](https://github.com/Teycir/frida-mcp) | MCP server for Frida · dynamic instrumentation · SSL pinning bypass · Java/ObjC hooking · mobile red teaming | `Python` |
-| [**adb-mcp**](https://github.com/Teycir/adb-mcp) | MCP server for Android Debug Bridge · USB/network device control via AI assistants | `Python` |
-| [**ripgrep-mcp**](https://github.com/Teycir/ripgrep-mcp) | MCP server exposing ripgrep · fast regex code search for AI-driven code audits | `Python` |
-
-> A suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
-
----
 
 ## 🔐 ZK POC
 
