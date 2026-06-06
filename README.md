@@ -71,7 +71,7 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**ArxivExplorer**](https://github.com/Teycir/ArxivExplorer) | A static-first, AI-enhanced search engine for arXiv research papers. | `TypeScript` `Next.js` `CF Workers` |
+| [**ArxivExplorer**](https://github.com/Teycir/ArxivExplorer) | AI-enhanced search engine for arXiv research papers. | `TypeScript` `Next.js` `CF Workers` |
 | [**Butler**](https://github.com/Teycir/Butler) | Persistent Coordination and Memory Layer for AI Coding Agents. | `Typescript` |
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
 | [**burp-mcp-server**](https://github.com/Teycir/burp-mcp-server) | MCP server for Burp Suite Professional · vulnerability scanning · issue retrieval · HTTP proxying via AI assistants | `JavaScript` |
