@@ -125,7 +125,7 @@
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**Excalibur**](https://github.com/Teycir/Excalibur) | Private repository. Chrome extension + Burp Suite extension solution to bypass WAF by extractinng HAR and cookies and feeding the data automatically and at scale to burp suite, or fo autonomous use  | `Typescript` `Python` |
-| [**APIHunter**](https://github.com/Teycir/ApiHunter) | Private repository. Scrapes fast hundreds of APIs and finds vulnerabilities, bypasses WAF and uses YAML patterns that are extensible | `Rust` |
+| [**APIHunter**](https://github.com/Teycir/ApiHunter) | Scrapes fast hundreds of APIs and finds vulnerabilities, bypasses WAF and uses YAML patterns that are extensible | `Rust` |
 | [**DiffCatcher**](https://github.com/Teycir/DiffCatcher) | Git repo discovery · diff capture · code element extraction | `Rust` |
 | [**ZkPatternMatcher**](https://github.com/Teycir/ZkPatternMatcher) | YAML-pattern vuln detection for ZK circuits | `Rust` |
 | [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT on IP / domain / ASN | `TypeScript` `Next.js` `CF Workers` |
