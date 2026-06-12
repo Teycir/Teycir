@@ -18,19 +18,8 @@
 
 <tr>
 <td><b>Cryptography</b></td>
-<td>Circuit audits · SMT validation . E2E encryption</td>
+<td> SMT validation . E2E encryption . Zkp</td>
 </tr>
-
-<tr>
-<td><b>Red team tools</b></td>
-<td>Async scanners · SARIF · CVE tooling</td>
-</tr>
-
-<tr>
-<td><b>Privacy Tools</b></td>
-<td>ZK proofs · XChaCha20 · Deniability</td>
-</tr>
-</table>
 
 ---
 
