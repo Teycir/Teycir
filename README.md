@@ -57,7 +57,7 @@
 | [**Butler**](https://github.com/Teycir/Butler) | Persistent Coordination and Memory Layer for AI Coding Agents. | `Typescript` |
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
 
-> + A suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
+> And a suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
 
 
 ---
