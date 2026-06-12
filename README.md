@@ -1,25 +1,7 @@
 
 
 
----
 
-<div align="center">
-
-## ⬡ Core Domains
-
-</div>
-
-<table align="center">
-<tr>
-<td><b>MCP and agentic AI</b></td>
-<td>AI agent orchestrator · MCP vuilnerability finder · MCP on security tools</td>
-</tr>
-<tr>
-
-<tr>
-<td><b>Cryptography</b></td>
-<td> SMT validation . E2E encryption . Zkp</td>
-</tr>
 
 ---
 
