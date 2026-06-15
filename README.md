@@ -25,7 +25,7 @@
 |:--------|:------------|:-----|
 | [**ArxivExplorer**](https://github.com/Teycir/ArxivExplorer) | AI-enhanced search engine for arXiv research papers. | `TypeScript` `Next.js` `CF Workers` |
 | [**Gist**](https://github.com/Teycir/Gist) | AI-enhanced summary engine for SERP. | `TypeScript`|
-| [**Butler**](https://github.com/Teycir/Butler) | Persistent Coordination and Memory Layer for AI Coding Agents. | `Typescript` |
+| [**Butler**](https://github.com/Teycir/Butler) | LangGraph powered persistent coordination and memory layer for AI coding agents. | `Typescript` |
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
 
 > And a suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
