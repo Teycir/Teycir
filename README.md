@@ -24,11 +24,13 @@
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**ArxivExplorer**](https://github.com/Teycir/ArxivExplorer) | AI-enhanced search engine for arXiv research papers. | `TypeScript` `Next.js` `CF Workers` |
+| [**SkillsGuard**](https://github.com/Teycir/SkillsGuard) | Automated SKILLS static security scanner· API. CLI. MCP . SKILL . SARIF output | `TypeScript` |
 | [**Gist**](https://github.com/Teycir/Gist) | AI-enhanced summary engine for SERP. | `TypeScript`|
 | [**Butler**](https://github.com/Teycir/Butler) | LangGraph powered persistent coordination and memory layer for AI coding agents. | `Typescript` |
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
+| [**Checkapis**](https://github.com/Teycir/checkapis) | Checks LLM API validity and status in batches then reports | `TypeScript` `Next.js` `CF Workers` |
 
-> And a suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
+> This and a suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
 
 
 ---
@@ -67,7 +69,7 @@
 
 ---
 
-## 🔍 Security Scanners & OSINT
+## 🔍 Non AI Security Scanners & OSINT
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
@@ -77,9 +79,8 @@
 | [**ZkPatternMatcher**](https://github.com/Teycir/ZkPatternMatcher) | YAML-pattern vuln detection for ZK circuits | `Rust` |
 | [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT on IP / domain / ASN | `TypeScript` `Next.js` `CF Workers` |
 | [**IotScanner**](https://github.com/Teycir/IotScanner) | IoT device vulnerability scanner | `Python` |
-| [**McPwn**](https://github.com/Teycir/Mcpwn) | MCP vulnerability scanner | `Python` |
 | [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
-| [**Checkapis**](https://github.com/Teycir/checkapis) | Checks LLM API validity and status in batches then reports | `TypeScript` `Next.js` `CF Workers` |
+
 
 
 ---
