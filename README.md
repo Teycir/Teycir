@@ -77,6 +77,7 @@
 | [**APIHunter**](https://github.com/Teycir/ApiHunter) | Scrapes fast hundreds of APIs and finds vulnerabilities, bypasses WAF and uses YAML patterns that are extensible | `Rust` |
 | [**DiffCatcher**](https://github.com/Teycir/DiffCatcher) | Git repo discovery · diff capture · code element extraction | `Rust` |
 | [**ZkPatternMatcher**](https://github.com/Teycir/ZkPatternMatcher) | YAML-pattern vuln detection for ZK circuits | `Rust` |
+| [**ZkPatternFuzz**](https://github.com/Teycir/ZkPatternFuzz) | Yaml pattern based fuzzer for ZK circuits | `Rust` |
 | [**SeekYou**](https://github.com/Teycir/SeekYou) | OSINT on IP / domain / ASN | `TypeScript` `Next.js` `CF Workers` |
 | [**IotScanner**](https://github.com/Teycir/IotScanner) | IoT device vulnerability scanner | `Python` |
 | [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
