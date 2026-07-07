@@ -29,6 +29,7 @@
 | [**Butler**](https://github.com/Teycir/Butler) | LangGraph powered persistent coordination and memory layer for AI coding agents. | `Typescript` |
 | [**Checkapis**](https://github.com/Teycir/checkapis) | Checks LLM API validity and status in batches then reports | `TypeScript` `Next.js` `CF Workers` |
 | [**Gist**](https://github.com/Teycir/Gist) | AI-enhanced summary engine for SERP. | `TypeScript`|
+| [**AgentSec**](https://github.com/Teycir/AgentSec) | Lightweight, local-first security testing command-line tool (CLI) built in Rust that scans LLM wrappers, RAG databases, and autonomous AI agents for OWASP Top 10 vulnerabilities. | `Rust`|
 
 > This and a suite of MCP servers turning best-in-class security tools into AI-callable primitives — scan, instrument, and audit from any MCP-compatible client.
 
