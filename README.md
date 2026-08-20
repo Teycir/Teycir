@@ -24,7 +24,7 @@
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**ArxivExplorer**](https://github.com/Teycir/ArxivExplorer) | AI-enhanced semantic search engine for arXiv research papers. | `TypeScript` `Next.js` `CF Workers` |
-| [**HiringSignals**](https://github.com/Teycir/HiringSignnals) | AI-enhanced semantic search engine for detecting hiring signals early. | `TypeScript` `Next.js` `CF Workers` |
+| [**HiringSignals**](https://github.com/Teycir/HiringSignals) | AI-enhanced semantic search engine for detecting hiring signals early. | `TypeScript` `Next.js` `CF Workers` |
 | [**McPwn**](https://github.com/Teycir/Mcpwn) | Automated MCP server security scanner · RCE · path traversal · prompt injection · protocol fuzzing · semantic detection · SARIF output | `Python` |
 | [**SkillsGuard**](https://github.com/Teycir/SkillsGuard) | Automated SKILLS static security scanner· API. CLI. MCP . SKILL . SARIF output | `TypeScript` |
 | [**Butler**](https://github.com/Teycir/Butler) | LangGraph powered persistent coordination and memory layer for AI coding agents. | `Typescript` |
