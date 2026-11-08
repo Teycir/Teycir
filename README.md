@@ -15,7 +15,18 @@
 
 </div>
 
+---
 
+## 📌 Contents
+
+- [Tech Stack](#-tech-stack)
+- [MCP and agentic AI](#-mcp-and-agentic-ai)
+- [Privacy web applications](#-privacy-web-applications)
+- [Privacy Chrome Extensions](#-privacy-chrome-extensions)
+- [Burp Suite Extensions](#-burp-suite-extensions)
+- [Non-AI Security Scanners & OSINT](#-non-ai-security-scanners--osint)
+- [Exploit Research](#-exploit-research)
+- [CTF Write-ups](#ctf-write-ups) <!-- add this link when the ArkxCTF section is appended -->
 
 ---
 
