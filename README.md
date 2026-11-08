@@ -28,7 +28,7 @@
 - [CTF Write-ups](#ctf-write-ups)
 
 ---
-
+<a name="mcp-agentic-ai"></a>
 ## 🤖 MCP and agentic AI
 
 | Project | Description | Tech |
@@ -48,7 +48,7 @@
 
 
 ---
-
+<a name="privacy-web-applications"></a>
 ## 🌐 Privacy web applications
 
 | Project | Description | Tech |
@@ -60,7 +60,7 @@
 | [**TrustCircle**](https://github.com/Teycir/TrustCircle) | File timestamping vault on IPFS | `TypeScript` `Next.js` `CF Workers` |
 
 ---
-
+<a name="privacy-chrome-extensions"></a>
 ## 🔌 Privacy Chrome Extensions
 
 | Project | Description | Tech |
@@ -70,7 +70,7 @@
 | [**LibreWolfTorRouting**](https://github.com/Teycir/LibreWolfTorRouting) | One-click Tor routing for LibreWolf | `TypeScript` |
 
 ---
-
+<a name="burp-suite-extensions"></a>
 ## 🛠️ Burp Suite Extensions
 
 | Project | Description | Tech |
@@ -82,7 +82,7 @@
 
 
 ---
-
+<a name="security-scanners-osint"></a>
 ## 🔍 Non AI Security Scanners & OSINT
 
 | Project | Description | Tech |
@@ -99,7 +99,7 @@
 
 
 ---
-
+<a name="exploit-research"></a>
 ## 🧪 Exploit Research
 
 | Project | Description |
@@ -113,7 +113,7 @@
 > These repositories document security research, validation artifacts, and disclosure materials. Review each project's scope and evidence before assessing impact.
 
 ---
-
+<a name="ctf-write-ups"></a>
 ## 🏁 CTF Write-ups
 
 | Project | Description |
