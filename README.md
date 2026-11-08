@@ -83,7 +83,7 @@
 
 
 ---
-<a name="security-scanners-osint"></a>
+<a name="non-ai-security-scanners--osint"></a>
 ## 🔍 Non AI Security Scanners & OSINT
 
 | Project | Description | Tech |
