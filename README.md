@@ -28,9 +28,9 @@
 - [CTF Write-ups](#ctf-write-ups)
 
 ---
-<a name="mcp-agentic-ai"></a>
-## 🤖 MCP and agentic AI
 
+## 🤖 MCP and agentic AI
+<a name="mcp-agentic-ai"></a>
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**ArxivExplorer**](https://github.com/Teycir/ArxivExplorer) | AI-enhanced semantic search engine for arXiv research papers. | `TypeScript` `Next.js` `CF Workers` |
