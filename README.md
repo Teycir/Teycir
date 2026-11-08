@@ -88,5 +88,16 @@
 | [**honeypotscan**](https://github.com/Teycir/honeypotscan) | Honeypot token scanner · 13 scam patterns · ETH/Polygon/Arbitrum | `TypeScript` `Next.js` `CF Workers` |
 
 
-
 ---
+
+## 🧪 Exploit Research
+
+| Project | Description |
+|:--------|:------------|
+| [**circomlib-exploit**](https://github.com/Teycir/circomlib-exploit) | Reproducible, evidence-first proof of underconstraint in circomlib's `Decoder(w)` with counterexamples and scope-limited findings. |
+| [**fft-exploit-poc**](https://github.com/Teycir/fft-exploit-poc) | Solver-backed validation of a non-canonical FFT decomposition issue in Eigen zkVM circuits, including downstream exposure analysis. |
+| [**zkevm-prover-exploit**](https://github.com/Teycir/zkevm-prover-exploit) | Read-only evidence pack and probe guide for an unauthenticated gRPC control-plane exposure in `zkevm-prover`. |
+| [**taiko-mono-exploit**](https://github.com/Teycir/taiko-mono-exploit) | Isolated proof artifacts and finding notes for the reported hardcoded privileged signer key issue in Taiko. |
+| [**zk-email-verify-exploit**](https://github.com/Teycir/zk-email-verify-exploit) | Disclosure artifacts for a cross-instance signature replay issue in `zkemail/zk-email-verify`, with verification scripts and drafts. |
+
+> These repositories document security research, validation artifacts, and disclosure materials. Review each project's scope and evidence before assessing impact.
