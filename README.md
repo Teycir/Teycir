@@ -19,7 +19,6 @@
 
 ## 📌 Contents
 
-- [Tech Stack](#-tech-stack)
 - [MCP and agentic AI](#-mcp-and-agentic-ai)
 - [Privacy web applications](#-privacy-web-applications)
 - [Privacy Chrome Extensions](#-privacy-chrome-extensions)
