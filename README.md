@@ -101,3 +101,11 @@
 | [**zk-email-verify-exploit**](https://github.com/Teycir/zk-email-verify-exploit) | Disclosure artifacts for a cross-instance signature replay issue in `zkemail/zk-email-verify`, with verification scripts and drafts. |
 
 > These repositories document security research, validation artifacts, and disclosure materials. Review each project's scope and evidence before assessing impact.
+
+---
+
+## 🏁 CTF Write-ups
+
+| Project | Description |
+|:--------|:------------|
+| [**ArkxCTF**](https://github.com/Teycir/ArkxCTF) | Eight authorized AI-agent security CTF write-ups exploring tool trust boundaries, MCP resource exposure, injection, and authorization flaws, with root causes, impact, and remediation guidance. |
