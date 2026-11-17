@@ -112,7 +112,7 @@
 | [**zk-email-verify-exploit**](https://github.com/Teycir/zk-email-verify-exploit) | Disclosure artifacts for a cross-instance signature replay issue in `zkemail/zk-email-verify`, with verification scripts and drafts. |
 | [**agentic-radar-cve**](https://github.com/Teycir/agentic-radar-cve) | agentic-radar's scan openai-agents command sends the user's OpenAI API key to a host named in a .env file that the scanned repository controls. No flag, prompt or warning. |
 
-> These repositories document security research, validation artifacts, and disclosure materials. Review each project's scope and evidence before assessing impact.
+> These repositories document security research, validation artifacts, and disclosure materials. Review each project's scope and evidence before assessing impact. Bugs confirmed by maintainers, some fixed, some not. 
 
 ---
 <a name="ctf-write-ups"></a>
