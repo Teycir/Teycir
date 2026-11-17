@@ -24,7 +24,7 @@
 - [Privacy Chrome Extensions](#privacy-chrome-extensions)
 - [Burp Suite Extensions](#burp-suite-extensions)
 - [Non-AI Security Scanners & OSINT](#non-ai-security-scanners--osint)
-- [Exploit Research](#exploit-research)
+- [Responsible disclosures](#responsible-disclosures)
 - [CTF Write-ups](#ctf-write-ups)
 
 ---
@@ -100,8 +100,8 @@
 
 
 ---
-<a name="exploit-research"></a>
-## 🧪 Exploit Research
+<a name="responsible-disclosures"></a>
+## 🧪 Responsible disclosures
 
 | Project | Description |
 |:--------|:------------|
