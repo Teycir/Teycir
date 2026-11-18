@@ -104,11 +104,6 @@
 
 | Project | Description |
 |:--------|:------------|
-| [**circomlib-exploit**](https://github.com/Teycir/circomlib-exploit) | Reproducible, evidence-first proof of underconstraint in circomlib's `Decoder(w)` with counterexamples and scope-limited findings. |
-| [**fft-exploit-poc**](https://github.com/Teycir/fft-exploit-poc) | Solver-backed validation of a non-canonical FFT decomposition issue in Eigen zkVM circuits, including downstream exposure analysis. |
-| [**zkevm-prover-exploit**](https://github.com/Teycir/zkevm-prover-exploit) | Read-only evidence pack and probe guide for an unauthenticated gRPC control-plane exposure in `zkevm-prover`. |
-| [**taiko-mono-exploit**](https://github.com/Teycir/taiko-mono-exploit) | Isolated proof artifacts and finding notes for the reported hardcoded privileged signer key issue in Taiko. |
-| [**zk-email-verify-exploit**](https://github.com/Teycir/zk-email-verify-exploit) | Disclosure artifacts for a cross-instance signature replay issue in `zkemail/zk-email-verify`, with verification scripts and drafts. |
 | [**agentic-radar-cve**](https://github.com/Teycir/agentic-radar-cve) | agentic-radar's scan openai-agents command sends the user's OpenAI API key to a host named in a .env file that the scanned repository controls. No flag, prompt or warning. |
 | [**supergateway-security-research**](https://github.com/Teycir/supergateway-security-research) | Supergateway security research — SGW-2026-001 (DoS via prototype-chain sessionId) and SGW-2026-002 (CSWSH via missing Origin validation). PoCs, evidence, advisories, GHSA records. |
 
