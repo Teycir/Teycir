@@ -107,7 +107,7 @@
 | [**agentic-radar-cve**](https://github.com/Teycir/agentic-radar-cve) | agentic-radar's scan openai-agents command sends the user's OpenAI API key to a host named in a .env file that the scanned repository controls. No flag, prompt or warning. |
 | [**supergateway-security-research**](https://github.com/Teycir/supergateway-security-research) | Supergateway security research — SGW-2026-001 (DoS via prototype-chain sessionId) and SGW-2026-002 (CSWSH via missing Origin validation). PoCs, evidence, advisories, GHSA records. |
 
-> These repositories document security research, validation artifacts, and disclosure materials. Review each project's scope and evidence before assessing impact. Bugs confirmed by maintainers, some fixed, some not. 
+> These repositories document security research, validation artifacts, and disclosure materials. All validated by Vulncheck assigned CVE.
 
 ---
 <a name="ctf-write-ups"></a>
