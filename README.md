@@ -19,6 +19,7 @@
 
 ## 📌 Contents
 
+- [Security CVEs](#security-cves)
 - [MCP and agentic AI](#mcp-and-agentic-ai)
 - [Privacy web applications](#privacy-web-applications)
 - [Privacy Chrome Extensions](#privacy-chrome-extensions)
@@ -26,6 +27,19 @@
 - [Non-AI Security Scanners & OSINT](#non-ai-security-scanners--osint)
 - [Responsible disclosures](#responsible-disclosures)
 - [CTF Write-ups](#ctf-write-ups)
+
+---
+<a name="security-cves"></a>
+## 🛡️ Security CVEs
+
+| CVE | Description |
+|:----|:------------|
+| [**CVE-2026-137091**](https://www.cve.org/CVERecord?id=CVE-2026-137091) | **EverOS** — cross-origin local file disclosure via permissive CORS + unrestricted `file://` ingestion; any website a victim visits can read arbitrary local files (CVSS 8.2, High). |
+| [**CVE-2026-132122**](https://www.cve.org/CVERecord?id=CVE-2026-132122) | **Supergateway** — untrusted `.env` loading lets malicious repositories hijack `OPENAI_BASE_URL` and steal the user's OpenAI API key. |
+| [**CVE-2026-132121**](https://www.cve.org/CVERecord?id=CVE-2026-132121) | **Supergateway** — Cross-Site WebSocket Hijacking via missing `Origin` validation (stdio → WS mode). |
+| [**CVE-2026-131857**](https://www.cve.org/CVERecord?id=CVE-2026-131857) | **Supergateway** — unauthenticated DoS via prototype-inherited `sessionId` (stdio → SSE mode). |
+
+> All assigned by VulnCheck. Full PoCs, evidence, and advisories in [Responsible disclosures](#responsible-disclosures).
 
 ---
 
