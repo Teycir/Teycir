@@ -106,6 +106,7 @@
 |:--------|:------------|
 | [**agentic-radar-cve**](https://github.com/Teycir/agentic-radar-cve) | agentic-radar's scan openai-agents command sends the user's OpenAI API key to a host named in a .env file that the scanned repository controls. No flag, prompt or warning. |
 | [**supergateway-security-research**](https://github.com/Teycir/supergateway-security-research) | Supergateway security research — SGW-2026-001 (DoS via prototype-chain sessionId) and SGW-2026-002 (CSWSH via missing Origin validation). PoCs, evidence, advisories, GHSA records. |
+| [**everos-cors-file-exfil**](https://github.com/Teycir/everos-cors-file-exfil) | EverOS security audit — unauthenticated local file exfiltration via `file://` ingestion + permissive CORS (CVE-2026-137091), unauthenticated SSRF, and cross-tenant knowledge IDOR. PoCs, evidence, advisories. |
 
 > These repositories document security research, validation artifacts, and disclosure materials. All validated by Vulncheck assigned CVE.
 
