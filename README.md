@@ -32,12 +32,12 @@
 <a name="security-cves"></a>
 ## 🛡️ Security CVEs
 
-| CVE | Description |
-|:----|:------------|
-| [**CVE-2026-137091**](https://www.cve.org/CVERecord?id=CVE-2026-137091) | **EverOS** — cross-origin local file disclosure via permissive CORS + unrestricted `file://` ingestion; any website a victim visits can read arbitrary local files (CVSS 8.2, High). |
-| [**CVE-2026-132122**](https://www.cve.org/CVERecord?id=CVE-2026-132122) | **Supergateway** — untrusted `.env` loading lets malicious repositories hijack `OPENAI_BASE_URL` and steal the user's OpenAI API key. |
-| [**CVE-2026-132121**](https://www.cve.org/CVERecord?id=CVE-2026-132121) | **Supergateway** — Cross-Site WebSocket Hijacking via missing `Origin` validation (stdio → WS mode). |
-| [**CVE-2026-131857**](https://www.cve.org/CVERecord?id=CVE-2026-131857) | **Supergateway** — unauthenticated DoS via prototype-inherited `sessionId` (stdio → SSE mode). |
+| CVE | Severity | Description |
+|:----|:---------|:------------|
+| [**CVE-2026-137091**](https://www.cve.org/CVERecord?id=CVE-2026-137091) | **High 8.2** | **EverOS** — cross-origin local file disclosure via permissive CORS + unrestricted `file://` ingestion; any website a victim visits can read arbitrary local files. |
+| [**CVE-2026-132121**](https://www.cve.org/CVERecord?id=CVE-2026-132121) | **High 8.1** | **Supergateway** — Cross-Site WebSocket Hijacking via missing `Origin` validation (stdio → WS mode). |
+| [**CVE-2026-131857**](https://www.cve.org/CVERecord?id=CVE-2026-131857) | **High 7.5** | **Supergateway** — unauthenticated DoS via prototype-inherited `sessionId` (stdio → SSE mode). |
+| [**CVE-2026-132122**](https://www.cve.org/CVERecord?id=CVE-2026-132122) | **Medium 4.7** | **agentic-radar** — untrusted `.env` loading lets malicious repositories hijack `OPENAI_BASE_URL` and steal the user's OpenAI API key. |
 
 > All assigned by VulnCheck. Full PoCs, evidence, and advisories in [Responsible disclosures](#responsible-disclosures).
 
